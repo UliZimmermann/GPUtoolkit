@@ -1,3 +1,3 @@
 GPUtoolkit
 ==========
-Tools for vector processing using GLSL.
+Tools for vector processing using GLSL and C++.
